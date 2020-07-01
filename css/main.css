@@ -50,7 +50,7 @@ p {
 .header {
   width: auto;
   height: auto;
-  background: url(".//img/header_bg.png") center/cover no-repeat; }
+  background: url("../img/header_bg.png") center/cover no-repeat; }
   .header .container {
     padding-bottom: 15px;
     position: relative;
